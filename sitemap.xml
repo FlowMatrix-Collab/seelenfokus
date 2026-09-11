@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.seelenfokus.com/</loc></url><url><loc>https://www.seelenfokus.com/zusammenarbeit/</loc></url><url><loc>https://www.seelenfokus.com/start/</loc></url><url><loc>https://www.seelenfokus.com/impressum/</loc></url><url><loc>https://www.seelenfokus.com/datenschutz/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://seelenfokus.com/</loc></url>
+  <url><loc>https://seelenfokus.com/craniosacral/</loc></url>
+  <url><loc>https://seelenfokus.com/aromatouch/</loc></url>
+  <url><loc>https://seelenfokus.com/spiel-der-leichtigkeit/</loc></url>
+  <url><loc>https://seelenfokus.com/ueber-mich/</loc></url>
+  <url><loc>https://seelenfokus.com/erfahrungen/</loc></url>
+  <url><loc>https://seelenfokus.com/angebote/</loc></url>
+  <url><loc>https://seelenfokus.com/kontakt/</loc></url>
+  <url><loc>https://seelenfokus.com/start/</loc></url>
+  <url><loc>https://seelenfokus.com/impressum/</loc></url>
+  <url><loc>https://seelenfokus.com/datenschutz/</loc></url>
+</urlset>
